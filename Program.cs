@@ -1,6 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Teste");
-// dsds
+﻿// nome
+// artista 
+// duracao
+// disponivel
 
-int test = 10;
-Console.WriteLine($"Value {test}");
+
+string nome;
+string artista;
+int duracao;
+bool disponivel;

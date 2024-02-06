@@ -12,3 +12,4 @@ C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\ref
 C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.pdb
 C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.genruntimeconfig.cache
 C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\ref\POO_ScreenSound.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.sourcelink.json
