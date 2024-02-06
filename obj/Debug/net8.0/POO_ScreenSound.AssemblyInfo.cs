@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("POO_ScreenSound")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06a6dd73d8d01d4873162070fcf23c8b48b4fbe1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54ee9f9d84a9cfba622e31db5468a011b00c3ed0")]
 [assembly: System.Reflection.AssemblyProductAttribute("POO_ScreenSound")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POO_ScreenSound")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
