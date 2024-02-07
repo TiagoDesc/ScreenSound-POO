@@ -1,0 +1,15 @@
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\bin\Debug\net8.0\POO_ScreenSound.exe
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\bin\Debug\net8.0\POO_ScreenSound.deps.json
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\bin\Debug\net8.0\POO_ScreenSound.runtimeconfig.json
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\bin\Debug\net8.0\POO_ScreenSound.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\bin\Debug\net8.0\POO_ScreenSound.pdb
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.AssemblyInfoInputs.cache
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.AssemblyInfo.cs
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\refint\POO_ScreenSound.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.pdb
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.genruntimeconfig.cache
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\ref\POO_ScreenSound.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\POO_ScreenSound\obj\Debug\net8.0\POO_ScreenSound.sourcelink.json
