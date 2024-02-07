@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\POO_ScreenSound\\Atividade1\\Atividade1\\Atividade1.csproj": {}
+    "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\Atividade1\\Atividade1\\Atividade1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\POO_ScreenSound\\Atividade1\\Atividade1\\Atividade1.csproj": {
+    "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\Atividade1\\Atividade1\\Atividade1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\POO_ScreenSound\\Atividade1\\Atividade1\\Atividade1.csproj",
+        "projectUniqueName": "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\Atividade1\\Atividade1\\Atividade1.csproj",
         "projectName": "Atividade1",
-        "projectPath": "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\POO_ScreenSound\\Atividade1\\Atividade1\\Atividade1.csproj",
+        "projectPath": "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\Atividade1\\Atividade1\\Atividade1.csproj",
         "packagesPath": "C:\\Users\\nobre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\POO_ScreenSound\\Atividade1\\Atividade1\\obj\\",
+        "outputPath": "C:\\Users\\nobre\\source\\repos\\POO_ScreenSound\\Atividade1\\Atividade1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nobre\\AppData\\Roaming\\NuGet\\NuGet.Config",
