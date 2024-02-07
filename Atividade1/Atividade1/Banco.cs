@@ -13,6 +13,13 @@ namespace Atividade1
         public double saldo = 700;
         public double senha = 1234;
 
+        public void ExibirInformacoes()
+        {
+            Console.WriteLine("\nInformações Gerais: ");
+            Console.WriteLine($"Nome do titular: {titular}");
+            Console.WriteLine($"Saldo da conta: {saldo}");
+            Console.WriteLine($"Senha da conta: {senha}");
+        }
 
     }
 }
