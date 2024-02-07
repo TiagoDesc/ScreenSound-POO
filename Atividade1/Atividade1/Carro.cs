@@ -40,6 +40,7 @@ namespace Atividade1
         public void buzinar()
         {
             Console.WriteLine("Bi Bi");
+            Console.WriteLine("teste");
         }
 
     }
