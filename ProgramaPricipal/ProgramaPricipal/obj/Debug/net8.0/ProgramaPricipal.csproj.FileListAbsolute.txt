@@ -1,0 +1,15 @@
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\bin\Debug\net8.0\ProgramaPricipal.exe
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\bin\Debug\net8.0\ProgramaPricipal.deps.json
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\bin\Debug\net8.0\ProgramaPricipal.runtimeconfig.json
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\bin\Debug\net8.0\ProgramaPricipal.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\bin\Debug\net8.0\ProgramaPricipal.pdb
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\ProgramaPricipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\ProgramaPricipal.AssemblyInfoInputs.cache
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\ProgramaPricipal.AssemblyInfo.cs
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\ProgramaPricipal.csproj.CoreCompileInputs.cache
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\ProgramaPricipal.sourcelink.json
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\ProgramaPricipal.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\refint\ProgramaPricipal.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\ProgramaPricipal.pdb
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\ProgramaPricipal.genruntimeconfig.cache
+C:\Users\nobre\source\repos\POO_ScreenSound\ProgramaPricipal\ProgramaPricipal\obj\Debug\net8.0\ref\ProgramaPricipal.dll
