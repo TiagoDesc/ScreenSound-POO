@@ -5,14 +5,11 @@
     public int Duracao { get; set; }
     public bool Disponivel {  get; set; }
 
-    public  string DescricaoResumida 
-    {
-        get
-        {
-            return $"A música {Nome} percente ao {Artista}.";
-        }
+    public string DescricaoResumida =>
+        $"A música {Nome} percente ao {Artista}.";
 
-    }
+
+
 
 
 
