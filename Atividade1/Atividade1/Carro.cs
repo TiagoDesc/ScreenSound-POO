@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,36 +9,42 @@ namespace Atividade1
 {
     internal class Carro
     {
-        public string fabricante;
-        public string modelo;
-        public int ano;
-        public int quantidadePortas;
-        public int velocidade = 0;
+        public string Fabricante {  get; set; }
+        public string Modelo { get; set; }
+        public int Ano { get; set; }
+        public int QuantidadePortas { get; set; }
 
-        public void exibirInformacoes()
+        public int Velocidade {  get; set; }
+
+        public string DescricaoDetalhada =>
+            $"Fabricante {this.Fabricante}, modelo {this.Modelo}, ano do Carro {this.Ano}";
+
+
+
+        public void ExibirInformacoes()
         {
-            Console.WriteLine($"Informações do carro: {this.fabricante} {this.modelo} {this.quantidadePortas}");
+            Console.WriteLine($"Informações do carro: {this.Fabricante} {this.Modelo} {this.QuantidadePortas}");
         }
 
-        public void acelerar()
+        public void Acelerar()
         {
             Console.WriteLine("Acelerando...");
-            if (velocidade < 100)
+            if (Velocidade < 100)
             {
-                velocidade += 5;
+                Velocidade += 5;
             }
         }
 
-        public void frear()
+        public void Frear()
         {
             Console.WriteLine("Freando...");
-            if (velocidade > 0)
+            if (Velocidade > 0)
             {
-                velocidade -= 5;
+                Velocidade -= 5;
             }
         }
 
-        public void buzinar()
+        public void Buzinar()
         {
             Console.WriteLine("Bi Bi");
             Console.WriteLine("teste");

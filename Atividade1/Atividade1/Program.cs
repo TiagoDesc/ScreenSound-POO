@@ -2,6 +2,6 @@
 
 Banco conta = new Banco();
 
-Console.WriteLine($"Titular: {conta.titular}.");
-Console.WriteLine($"Saldo: R$ {conta.saldo}.");
+Console.WriteLine($"Titular: {conta.IdConta}.");
+Console.WriteLine($"Saldo: R$ {conta.Saldo}.");
 conta.ExibirInformacoes();
