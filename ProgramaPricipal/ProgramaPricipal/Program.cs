@@ -1,16 +1,11 @@
-﻿Musica musica1 = new Musica();
-musica1.Nome = "Train Wreck";
-musica1.Artista = "James Arthur";
-musica1.Duracao = 273;
-musica1.Disponivel = true;
-Console.WriteLine(musica1.Disponivel);
+﻿Album albumDoJamesArthur = new Album();
+albumDoJamesArthur.Nome = "You";
+
+Musica musica1 = new Musica();
+musica1.Nome = "Fall";
 
 Musica musica2 = new Musica();
-musica2.Nome = "Japanese Denim";
-musica2.Artista = "Daniel Caesar";
-musica2.Duracao = 300;
-musica2.Disponivel = false;
+musica2.Nome = "Car's Outside";
 
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
-musica1.ExibirNomeArtista();
+albumDoJamesArthur.AdicionarMusica(musica1);
+albumDoJamesArthur.AdicionarMusica(musica2);
