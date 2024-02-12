@@ -12,4 +12,7 @@ musica2.Duracao = 248;
 albumDoJamesArthur.AdicionarMusica(musica1);
 albumDoJamesArthur.AdicionarMusica(musica2);
 
-albumDoJamesArthur.ExibirMusicasDoAlbum();
+Banda jamesArthur = new Banda();
+jamesArthur.Nome = "James Arthur";
+jamesArthur.AdicionarAlbum(albumDoJamesArthur);
+jamesArthur.ExibirDiscografia();
