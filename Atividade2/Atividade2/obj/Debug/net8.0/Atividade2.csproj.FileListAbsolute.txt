@@ -1,0 +1,15 @@
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\bin\Debug\net8.0\Atividade2.exe
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\bin\Debug\net8.0\Atividade2.deps.json
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\bin\Debug\net8.0\Atividade2.runtimeconfig.json
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\bin\Debug\net8.0\Atividade2.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\bin\Debug\net8.0\Atividade2.pdb
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\Atividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\Atividade2.AssemblyInfoInputs.cache
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\Atividade2.AssemblyInfo.cs
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\Atividade2.sourcelink.json
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\Atividade2.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\refint\Atividade2.dll
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\Atividade2.pdb
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\Atividade2.genruntimeconfig.cache
+C:\Users\nobre\source\repos\POO_ScreenSound\Atividade2\Atividade2\obj\Debug\net8.0\ref\Atividade2.dll

@@ -4,6 +4,13 @@
     public string Cpf { get; set; }
 
     public string Endereco { get; set; }
+
+    public Titular(string nome, string cpf, string endereco)
+    {
+        Nome = nome;
+        Cpf = cpf;
+        Endereco = endereco;
+    }
 }
 
 class Conta
@@ -13,9 +20,28 @@ class Conta
 
     public int NumeroDaConta { get; set; }
 
-    public double Saldo { get; set; }
+    public double Saldo { get; }
 
     public double Limite { get; set; }
 
     public string Informacoes => $"Conta n° {this.NumeroDaConta}, Agência: {this.Agencia}, Titular: {this.Titular.Nome}, - Saldo: {this.Saldo}.";
+    
+    public Conta(Titular titular, int agencia, int numeroDaConta, double saldo, double limite )
+    {
+        Titular = titular;
+        Agencia = agencia;
+        NumeroDaConta = numeroDaConta;
+        Saldo = saldo;
+        Limite = limite;
+    }
+
+    public string ToString()
+    {
+        return Titular.Nome + 
+                ", "        +
+               Titular.Cpf  +
+               ", " +
+               Titular.Endereco + ".";
+    }
+
 }

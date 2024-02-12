@@ -1,18 +1,8 @@
 ﻿using System.Threading.Channels;
+Titular titular = new Titular("Lionel Messi", "000.000.000-00", "Rua do Bexiga");
+Conta c = new Conta(titular, 1, 2222, 100000, 1000000);
 
-Titular t = new Titular();
-Conta c = new Conta();
-
-t.Nome = "Tiago";
-t.Cpf = "386.927.462-53"; //Random CPF. Chill.
-t.Endereco = "Rua do Lionel Messi.";
-
-c.Titular = t;
-c.Agencia = 1;
-c.Saldo = 1000000.0;
-c.Limite = 100000.0;
-
-Console.WriteLine("Informações do titular: ");
-Console.WriteLine($"Nome: { c.Titular.Nome}.");
-Console.WriteLine($"CPF: {c.Titular.Cpf}.");
-Console.WriteLine($"Endereço: {c.Titular.Endereco}.");
+Console.WriteLine(c.Informacoes);
+Console.WriteLine(c.Agencia);
+string info = c.ToString();
+Console.WriteLine(info);
