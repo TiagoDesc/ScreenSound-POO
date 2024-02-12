@@ -5,6 +5,8 @@
     public int Duracao { get; set; }
     public bool Disponivel { get; set; }
 
+    public Genero Genero { get; set; }  
+
     public string DescricaoResumida =>
         $"A música {Nome} percente ao {Artista}.";
 
